@@ -1,0 +1,15 @@
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.deps.json
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.dll
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\ref\GameTOP.Lib.dll
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Lib.pdb
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.dll
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\bin\Debug\net5.0\GameTOP.Interface.pdb
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csprojAssemblyReference.cache
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfoInputs.cache
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.AssemblyInfo.cs
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.csproj.CopyComplete
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.dll
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\ref\GameTOP.Lib.dll
+C:\Users\Rockadu\Documents\Curso\ConsoleCORE\GameTOP.Lib\obj\Debug\net5.0\GameTOP.Lib.pdb
